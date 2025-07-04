@@ -1,4 +1,4 @@
-# Hi 👋 I’m Ajay Thakur  
+# Hi 👋 I’m Srikanth Shivaraman
 **Aspiring Data Analyst | Python · SQL · Excel · Power BI · Tableau**  
 Turning Data into Decisions  
 

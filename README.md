@@ -11,10 +11,7 @@ Turning Data into Decisions
 ---
 
 ## 🛠 Languages & Tools  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)  
-![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white)  
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=power-bi&logoColor=white)  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)  ![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white)  ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=power-bi&logoColor=white)  
 ![SQL](https://img.shields.io/badge/-SQL-003B57?logo=postgresql&logoColor=white)  
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)  
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)  

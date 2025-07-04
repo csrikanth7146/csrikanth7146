@@ -10,12 +10,6 @@ Turning Data into Decisions
 
 ---
 
-## 🔗 Connect with me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ajay--thakur-blue?logo=linkedin)](https://linkedin.com/in/ajay-thakur)  
-[![GitHub](https://img.shields.io/badge/GitHub-ajeythakur-black?logo=github)](https://github.com/ajeythakur)
-
----
-
 ## 🛠 Languages & Tools  
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)  
@@ -37,12 +31,6 @@ Turning Data into Decisions
 - 🔍 Passionate about deriving actionable insights from messy data.  
 - 🌟 Always learning — currently diving into machine learning models and advanced SQL.  
 - 💡 I enjoy building dashboards and writing backend logic that fuels smart decision-making.
-
----
-
-## 📈 GitHub Stats  
-![Ajay's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajeythakur&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajeythakur&layout=compact)
 
 ---
 

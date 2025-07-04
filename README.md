@@ -44,4 +44,4 @@ I love poker and occasionally play chess! 😄
 
 ---
 
-*Template inspired by community best practices for GitHub profile READMEs* :contentReference[oaicite:1]{index=1}  
+

@@ -27,9 +27,3 @@ I love poker and occasionally play chess! 😄
 
 ---
 
-## 💡 Latest Blog  
-> *You can add a section for your blog posts or any dynamic content here.*
-
----
-
-

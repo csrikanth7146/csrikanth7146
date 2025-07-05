@@ -6,7 +6,7 @@ Turning Data into Decisions
 🌱 Currently exploring data science, machine learning, and advanced SQL  
 ⚒️ Tools I use: Python (Pandas, NumPy, Matplotlib), SQL, Excel, Power BI, Tableau  
 💬 Ask me about data analysis, dashboard creation, and backend logic  
-📫 Reach me at [2csrikanth7146@gmail.com](mailto:2csrikanth7146@gmail.com)  
+📫 Reach me at [csrikanth7146@gmail.com](mailto:csrikanth7146@gmail.com)  
 
 ---
 

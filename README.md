@@ -20,7 +20,7 @@ Turning Data into Decisions
 ---
 
 ## ⚡ Fun Fact  
-I love poker and occasionally play chess! 😄
+I love playing, cricket, football, tennis, bamdinton and chess! 😄
 
 
 
